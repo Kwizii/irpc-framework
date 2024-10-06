@@ -1,0 +1,3 @@
+kyro=github.kwizii.transport.serializer.kyro.KryoSerializer
+protostuff=github.kwizii.transport.serializer.protostuff.ProtostuffSerializer
+hessian=github.kwizii.transport.serializer.hessian.HessianSerializer

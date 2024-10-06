@@ -1,0 +1,1 @@
+netty=github.kwizii.transport.support.netty.client.NettyRpcClientSupport

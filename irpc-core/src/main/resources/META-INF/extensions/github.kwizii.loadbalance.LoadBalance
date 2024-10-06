@@ -1,0 +1,2 @@
+random=github.kwizii.loadbalance.impl.RandomLoadBalancer
+hash=github.kwizii.loadbalance.impl.ConsistentHashLoadBalancer
